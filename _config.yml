@@ -1,10 +1,9 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title:  Ideas are easy. Execution is everything.
+author: Wunlung
+email: wongwunlung@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A blog to document simple ideas and hard executions. 
+  It is our choices…that show what we truly are, far more than our abilities.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -15,9 +14,9 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
+    #twitter: jekyllrb
     github:  jekyll
-    rss: rss
+    # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
