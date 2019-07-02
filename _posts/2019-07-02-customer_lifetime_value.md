@@ -4,7 +4,7 @@ title: "Customer Lifetime Value"
 categories: customer
 ---
 
-[How valuable are your customers][hbr-url]
+[HBR: How valuable are your customers][hbr-url]
 * What is CLV?
 * An interactive CLV calculator
 
